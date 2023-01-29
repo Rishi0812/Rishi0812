@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishi0812
 - 👀 I’m interested in AI/Computer Vision
-- 🌱 I’m currently learning ML and Web Dev
+- 🌱 I’m currently learning and implementing NLP, CV, DL, ML and Web Dev
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rishi0812/)
 
